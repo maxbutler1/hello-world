@@ -1,2 +1,2 @@
 # hello-world
-Starter Repository
+Just a starter repository for my CS class
